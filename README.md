@@ -1,4 +1,4 @@
-# Tarea3_Sesion3_AppChatBot_MJM
+# App ChatBot con IA
 **Nombre:** Mariana Jiménez Martínez
 
 *Curso TecnoChicas Pro*
